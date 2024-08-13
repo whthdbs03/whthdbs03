@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://whthdbs03.github.io/">
-      <img
-        src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />&nbsp
+<!--       <img -->
+<!--         src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />&nbsp -->
       <br>
 </div>
 
