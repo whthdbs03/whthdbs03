@@ -12,7 +12,7 @@
 </div>
 
 # ⚡Tech Stack
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br>
 
 # 🌈 Projects
@@ -20,14 +20,17 @@
 <br>
 
 # 🙂 ABOUT ME
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CAC9&background=92A8D1&width=435&lines=%EA%B3%B5%EB%B6%80%EA%B0%80+%EC%A0%88+%EB%95%8C%EB%A0%B8%EC%96%B4%EC%9A%94)](https://git.io/typing-svg)
 <br>
+
+
 <!--
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 **whthdbs03/whthdbs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
 ![조소윤](https://github.com/user-attachments/assets/6be854ef-0f03-4582-b91f-38a240a6daf9)
 </div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
