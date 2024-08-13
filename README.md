@@ -23,6 +23,7 @@
 
 <br>
 <!--
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 **whthdbs03/whthdbs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
 ![조소윤](https://github.com/user-attachments/assets/6be854ef-0f03-4582-b91f-38a240a6daf9)
