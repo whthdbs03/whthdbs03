@@ -1,6 +1,12 @@
 ![조소윤](https://github.com/user-attachments/assets/6be854ef-0f03-4582-b91f-38a240a6daf9)
 
-
+# ✨I’m currently learning✨<br>
+<div align="center">
+  <a href="https://whthdbs03.github.io/">
+      <img
+        src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />&nbsp
+      <br>
+</div>
 <!--
 **whthdbs03/whthdbs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
