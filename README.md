@@ -1,7 +1,4 @@
-<div align="center">
-<!--   ![header](https://capsule-render.vercel.app/api?type=transparent&text=야호) -->
-  
-</div>
+![조소윤](https://github.com/user-attachments/assets/6be854ef-0f03-4582-b91f-38a240a6daf9)
 
 
 <!--
