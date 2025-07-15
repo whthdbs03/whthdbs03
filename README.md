@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/6be854ef-0f03-4582-b91f-38a240a6daf9" width="70%" height="70%">
 </div>
 
-## ✨I’m currently learning... ✨<br>
+## ✨I’m log... ✨<br>
 
 <div align="center">
   <a href="https://whthdbs03.github.io/">
