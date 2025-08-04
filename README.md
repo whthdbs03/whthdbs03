@@ -2,15 +2,6 @@
   <img src="https://github.com/user-attachments/assets/6be854ef-0f03-4582-b91f-38a240a6daf9" width="70%" height="70%">
 </div>
 
-## ✨I’m log... ✨<br>
-
-<div align="center">
-  <a href="https://whthdbs03.github.io/">
-      <img
-        src="https://img.shields.io/badge/NaverBoostcamp_AItech-03C75A?style=for-the-badge&logo=Naver&logoColor=white" width="50%" height="50%"/>&nbsp
-      <br>
-</div>
-
 ## ⚡Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-FF7F00?style=flat-square&logo=Kotlin&logoColor=white"/>  
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white)  
