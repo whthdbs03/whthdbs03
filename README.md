@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6be854ef-0f03-4582-b91f-38a240a6daf9" width="70%" height="70%">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFC6FE&width=435&lines=%ED%8E%A0%EB%A6%AC%EC%BB%A8%EC%A0%81+%EC%82%AC%EA%B3%A0%3A+%EC%9D%BC%EB%8B%A8+%EC%8B%9C%EB%8F%84%ED%95%98%EA%B8%B0)](https://git.io/typing-svg)
+  <!-- <img src="https://github.com/user-attachments/assets/6be854ef-0f03-4582-b91f-38a240a6daf9" width="70%" height="70%"> -->
 </div>
 
 ## ⚡Tech Stack
@@ -14,13 +15,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 <br>
-
-
-## 🙂 ABOUT ME
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CAC9&background=92A8D1&width=435&lines=%EA%B3%B5%EB%B6%80%EA%B0%80+%EC%A0%88+%EB%95%8C%EB%A0%B8%EC%96%B4%EC%9A%94)](https://git.io/typing-svg)
-<br>
-
-
 <!--
 
 # 🌈 Projects
